@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "BLUE",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T20:45:19.451044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/01_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Blue Angel",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/02_My_Blue_Angel_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Morpho",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Blue_Morpho_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Clearest Blue (Gryffin Remix)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/04_Clearest_Blue_(Gryffin_Remix)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Am I Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_Am_I_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Am I Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/06_Am_I_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Angel in Blue Jeans",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/07_Angel_in_Blue_Jeans_Train.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Atlanta Blue",
+      "artist": "The Statlers",
+      "has_synced": false,
+      "path": "select/08_Atlanta_Blue_The_Statlers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/09_Baby_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/13_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/14_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Barefoot Blue Jean Night",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/15_Barefoot_Blue_Jean_Night_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Barefoot Blue Jean Night",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/16_Barefoot_Blue_Jean_Night_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Between Blue Eyes And Jeans",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/17_Between_Blue_Eyes_And_Jeans_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Blue",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/18_Blue_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Blue",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/19_Blue_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BLUE",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_BLUE_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Blue",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Blue_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "BLUE",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_BLUE_宇多田_ヒカル.txt"
+    }
+  ]
+}
